@@ -149,17 +149,18 @@ font-family: CircularSp,spotify-circular, Helvetica,Arial, sans-serif;
     height: 80px;
     border: 2px solid red;
     background-color: #d9643a;
+    position: relative;
  }
 
  #help{
     position: absolute;
     left: 30px;
-    top: 727px;
+    top: 4px;
  }
 
  #you-can{
     position: absolute;
-    top: 739px;
+    top: 19px;
     left: 30px;
  }
  #down-logo{
@@ -172,6 +173,7 @@ font-family: CircularSp,spotify-circular, Helvetica,Arial, sans-serif;
    /* border: 2px solid blue; */
    height: 270px;
    background-color: #343535;
+   position: relative;
   
  }
  #footer-head{
@@ -212,7 +214,7 @@ font-family: CircularSp,spotify-circular, Helvetica,Arial, sans-serif;
    width: 250px;
    position: absolute;
    left: 400px;
-   top: 1000px;
+   top: 20px;
    line-height: 1.5;
 
  }
@@ -222,7 +224,7 @@ font-family: CircularSp,spotify-circular, Helvetica,Arial, sans-serif;
    width: 250px;
    position: absolute;
    left: 700px;
-   top: 1000px;
+   top: 20px;
    line-height: 1.5;
  }
 
@@ -233,5 +235,5 @@ font-family: CircularSp,spotify-circular, Helvetica,Arial, sans-serif;
    width: 250px;
    position: absolute;
    left: 1000px;
-   top: 1000px;
+   top: 20px;
  }
